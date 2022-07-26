@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\YoutubeSamples\bin\Debug\netcoreapp3.1\YoutubeSamples.exe
+C:\Users\DELL\source\repos\YoutubeSamples\bin\Debug\netcoreapp3.1\YoutubeSamples.deps.json
+C:\Users\DELL\source\repos\YoutubeSamples\bin\Debug\netcoreapp3.1\YoutubeSamples.runtimeconfig.json
+C:\Users\DELL\source\repos\YoutubeSamples\bin\Debug\netcoreapp3.1\YoutubeSamples.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\YoutubeSamples\bin\Debug\netcoreapp3.1\YoutubeSamples.dll
+C:\Users\DELL\source\repos\YoutubeSamples\bin\Debug\netcoreapp3.1\YoutubeSamples.pdb
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.AssemblyInfo.cs
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.dll
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.pdb
+C:\Users\DELL\source\repos\YoutubeSamples\obj\Debug\netcoreapp3.1\YoutubeSamples.genruntimeconfig.cache
