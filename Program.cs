@@ -12,21 +12,21 @@ namespace YoutubeSamples
 
     class Program
     {
-       static void Main(string[] args)
-        {
-            try
-            {
-                Console.WriteLine("Start");
-                //Wait is bad approach, but here i am using to do continue with same thread
-                CallFileRaderAsync().Wait();
-                Console.WriteLine("End");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
+       //static void Main(string[] args)
+       // {
+       //     try
+       //     {
+       //         Console.WriteLine("Start");
+       //         //Wait is bad approach, but here i am using to do continue with same thread
+       //         CallFileRaderAsync().Wait();
+       //         Console.WriteLine("End");
+       //     }
+       //     catch (Exception ex)
+       //     {
+       //         Console.WriteLine(ex.Message);
+       //     }
             
-        }
+       // }
        
         private async static Task CallFileRaderAsync()
         {
